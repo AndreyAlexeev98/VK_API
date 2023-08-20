@@ -2,6 +2,11 @@ body {
     font: 16px Helvetica;
 }
 
+.nav {
+    padding: 20px;
+    background-color: lightgrey;
+}
+
 .friends {
     display: flex;
     flex-wrap: wrap;
